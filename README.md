@@ -12,5 +12,5 @@
 
 6. https://github.com/bitshares/bitshares-core/issues/777 ???
 
-7. https://github.com/bitshares/bitshares-core/issues/1135 ???
+7. https://github.com/bitshares/bitshares-core/issues/1135 / 
 
