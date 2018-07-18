@@ -1,5 +1,7 @@
 # my-bts-issues
 
+GOOD FIRST ISSUE (labeled) https://github.com/bitshares/bitshares-core/labels/good%20first%20issue
+
 1. https://github.com/bitshares/bitshares-core/issues/809 / https://github.com/bitshares/bitshares-core/pull/1102 / https://github.com/bitshares/bitshares-fc/pull/56
 
 2. https://github.com/bitshares/bitshares-core/issues/929 / https://github.com/bitshares/bitshares-fc/pull/62
