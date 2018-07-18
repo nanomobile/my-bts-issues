@@ -14,5 +14,5 @@ GOOD FIRST ISSUE (labeled) https://github.com/bitshares/bitshares-core/labels/go
 
 6. https://github.com/bitshares/bitshares-core/issues/777 ???
 
-7. https://github.com/bitshares/bitshares-core/issues/1135 / 
+7. https://github.com/bitshares/bitshares-core/issues/1135 / https://github.com/bitshares/bitshares-core/pull/1153 / https://github.com/bitshares/bitshares-core/pull/1154
 
