@@ -10,4 +10,5 @@
 
 5. https://github.com/bitshares/bitshares-core/issues/946 ???
 
+6. https://github.com/bitshares/bitshares-core/issues/777 ???
 
